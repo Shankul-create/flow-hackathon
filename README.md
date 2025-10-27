@@ -6,7 +6,7 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-orange)](https://soliditylang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🎥 Demo Video](#) | [🚀 Live Demo](#) | [📜 Contract](https://testnet.flowscan.io/address/0xFe2D59D9F92A3959a44e9E5F5f1612b2BA697922)
+[🎥 Demo Video](#) (to be uploaded) [📜 Contract](https://testnet.flowscan.io/address/0xFe2D59D9F92A3959a44e9E5F5f1612b2BA697922)
 
 ---
 
